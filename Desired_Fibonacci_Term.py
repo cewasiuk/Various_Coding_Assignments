@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
-  
-#Chris Crews-Holloway, Phys 129
+ 
 #Apr27/2019
 #Problem 5
 
